@@ -1,0 +1,1 @@
+A cartoon image generator is a tool or software that allows users to create cartoon-style images from photos or illustrations. It typically provides various customization options such as filters, effects, and drawing tools to transform and personalize images into unique cartoon representations.
